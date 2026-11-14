@@ -37,7 +37,7 @@ Ce projet consiste à développer une application web en Vue 3 permettant de con
 - Erreur EADDRINUSE (port 3000 déjà utilisé) : JSON Server tournait déjà dans un autre terminal.
 
 ## Captures d'écran
-![Les captures d'écran de le TP sont disponibles dans le dossier captures]
+- Les captures d'écran de le TP sont disponibles dans le dossier captures
 
 ## Auteur 
 Salem Nour Elhouda - L2DSI1 / G2 
